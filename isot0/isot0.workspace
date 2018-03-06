@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="isot0" Database="" Version="10.0.0">
+  <Project Name="new1" Path="new1/new1.project" Active="No"/>
+  <Project Name="cycles-for" Path="cycles-for/cycles-for.project" Active="No"/>
+  <Project Name="cycle-while" Path="cycle-while/cycle-while.project" Active="No"/>
+  <Project Name="cycle-while-do" Path="cycle-while-do/cycle-while-do.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="new1" ConfigName="Debug"/>
+      <Project Name="cycles-for" ConfigName="Debug"/>
+      <Project Name="cycle-while" ConfigName="Debug"/>
+      <Project Name="cycle-while-do" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="new1" ConfigName="Release"/>
+      <Project Name="cycles-for" ConfigName="Release"/>
+      <Project Name="cycle-while" ConfigName="Release"/>
+      <Project Name="cycle-while-do" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
