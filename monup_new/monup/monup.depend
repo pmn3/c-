@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1509011448 source:c:\c+tmp\monup\main.cpp
+	<iostream>
+	<windows.h>
+	<string.h>
+	<tlhelp32.h>
+	<stdio.h>
+	<shellapi.h>
+	<ctime>
+	<fstream>
+

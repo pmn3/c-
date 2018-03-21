@@ -1,0 +1,5 @@
+﻿  main0002.cpp
+d:\visual studio 2013\projects\15.03.2018\00002\hello0002\hello0002\main0002.cpp(6): warning C4101: y2: неиспользованная локальная переменная
+d:\visual studio 2013\projects\15.03.2018\00002\hello0002\hello0002\main0002.cpp(6): warning C4101: y: неиспользованная локальная переменная
+d:\visual studio 2013\projects\15.03.2018\00002\hello0002\hello0002\main0002.cpp(6): warning C4101: x: неиспользованная локальная переменная
+  hello0002.vcxproj -> D:\Visual Studio 2013\Projects\15.03.2018\00002\hello0002\Debug\hello0002.exe

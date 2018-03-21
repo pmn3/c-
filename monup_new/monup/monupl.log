@@ -1,0 +1,23 @@
+monup start 
+Thu Oct 26 13:02:17 2017
+
+smtp.exe down 
+start smtp.exe Thu Oct 26 13:02:24 2017
+new pid smtp.exe 8908
+loadsmt - 1
+
+smtp.exe down 
+start smtp.exe Thu Oct 26 13:02:29 2017
+new pid smtp.exe 5876
+loadsmt - 2
+
+smtp.exe down 
+start smtp.exe Thu Oct 26 13:02:32 2017
+new pid smtp.exe 11012
+loadsmt - 3
+
+smtp.exe down 
+start smtp.exe Thu Oct 26 13:49:02 2017
+new pid smtp.exe 5276
+loadsmt - 1
+

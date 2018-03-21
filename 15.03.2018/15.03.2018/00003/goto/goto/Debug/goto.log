@@ -1,0 +1,5 @@
+﻿  hellogoto.cpp
+d:\visual studio 2013\projects\15.03.2018\00003\goto\goto\hellogoto.cpp(6): warning C4101: y2: неиспользованная локальная переменная
+d:\visual studio 2013\projects\15.03.2018\00003\goto\goto\hellogoto.cpp(6): warning C4101: y: неиспользованная локальная переменная
+d:\visual studio 2013\projects\15.03.2018\00003\goto\goto\hellogoto.cpp(6): warning C4101: x: неиспользованная локальная переменная
+  goto.vcxproj -> D:\Visual Studio 2013\Projects\15.03.2018\00003\goto\Debug\goto.exe
